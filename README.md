@@ -1,5 +1,5 @@
 ### Hi I'm Nethmi 👋
-
+- 👩‍🎓 I'm an Information Technology undergraduate at the University of Moratuwa
 <!--
 **99anjani/99anjani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
