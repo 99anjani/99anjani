@@ -1,4 +1,4 @@
-<h2 align="center">Hi👋, I'm Nethmi 👩‍💻 </h2>
+## Hi👋, I'm Nethmi 👩‍💻 
 # 💫 About Me:
 👩‍🎓I'm an Information Technology undergraduate at the University of Moratuwa<br>🌱 I’m currently learning  ReactJS, .NET<br>⛳️ I’m interested in Software Engineering 
 
