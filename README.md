@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I'm Nethmi 👋
 
 <!--
 **99anjani/99anjani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+👨‍🎓 I'm an Information Technology undergraduate at the University of Moratuwa
 -->
