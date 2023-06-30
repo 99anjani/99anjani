@@ -1,5 +1,5 @@
 <h2 align="center">Hi👋, I'm Nethmi 👩‍💻 </h2>
-# 💫 About Me:
+## 💫 About Me:
 👩‍🎓 I'm an Information Technology undergraduate at the University of Moratuwa<br>🌱 I’m currently learning  ReactJS, .NET<br>⛳️ I’m interested in Software Engineering 
 
 
