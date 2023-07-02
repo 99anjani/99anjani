@@ -11,10 +11,7 @@
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=anjani99&theme=gruvbox&show_icons=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=anjani99&theme=gruvbox&hide_border=false)<br/>
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=anjani99&theme=gruvbox&combine_all_yearly_contributions=true)
 
----
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
